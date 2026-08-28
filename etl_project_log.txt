@@ -1,0 +1,24 @@
+2026-08-28 19:43:39 : Starting the ETL process for GDP data extraction and transformation
+2026-08-28 20:28:54 : Preliminaries complete. Initiating ETL process
+2026-08-28 20:28:59 : Data extraction complete. Initiating Transformation process
+2026-08-28 20:28:59 : Data transformation complete. Initiating loading process
+2026-08-28 20:28:59 : Data saved to CSV file
+2026-08-28 20:28:59 : SQL Connection initiated
+2026-08-28 20:28:59 : Data loaded to Database as table. Running the query
+2026-08-28 20:28:59 : Process Complete
+2026-08-28 20:56:06 : Starting the ETL process for GDP data extraction and transformation
+2026-08-28 20:56:14 : Preliminaries complete. Initiating ETL process
+2026-08-28 20:56:17 : Data extraction complete. Initiating Transformation process
+2026-08-28 20:56:17 : Data transformation complete. Initiating loading process
+2026-08-28 20:56:17 : Data saved to CSV file
+2026-08-28 20:56:17 : SQL Connection initiated
+2026-08-28 20:56:18 : Data loaded to Database as table. Running the query
+2026-08-28 20:56:18 : Process Complete
+2026-08-28 21:13:59 : Starting the ETL process for GDP data extraction and transformation
+2026-08-28 21:14:28 : Preliminaries complete. Initiating ETL process
+2026-08-28 21:14:44 : Data extraction complete. Initiating Transformation process
+2026-08-28 21:14:44 : Data transformation complete. Initiating loading process
+2026-08-28 21:14:44 : Data saved to CSV file
+2026-08-28 21:14:44 : SQL Connection initiated
+2026-08-28 21:14:44 : Data loaded to Database as table. Running the query
+2026-08-28 21:14:44 : Process Complete
